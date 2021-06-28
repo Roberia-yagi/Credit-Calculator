@@ -16,3 +16,5 @@ Qt 5.15.2によって作成されました
 # Usage
 
 ad2.exeを起動してください．
+テキストボックスに学務情報システムから成績をコピーしてください．
+https://user-images.githubusercontent.com/68568267/123680021-2d76ae00-d883-11eb-8a18-effe4e4b506c.png
