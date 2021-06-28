@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C++ objects and libs
 *.slo
 *.lo
@@ -50,3 +51,6 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
+=======
+.ini
+>>>>>>> master
