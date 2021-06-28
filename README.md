@@ -5,7 +5,7 @@
 
 # Download
 Windows版の実行ファイルは下記からダウンロードできます
-https://drive.google.com/file/d/1ww39R7XCvAgsa-x8eP4dCcdh-OasXiU2/view?usp=sharing
+
 
 # Requirement
 
